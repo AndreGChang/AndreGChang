@@ -1,7 +1,6 @@
 ### Hi there TEXT here👋
 
 - 🌱 I’m currently learning Cybersecurity and Python
-- 📫 How to reach me: https://www.linkedin.com/in/andre-chang-760b65241/
 
 <div align="center">
   <a href="https://github.com/TEXTBr">
