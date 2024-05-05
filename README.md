@@ -1,6 +1,6 @@
 ### Hi there TEXT here👋
 
-- 🌱 Estudos em cybreseguranca, linux e outros assuntos que a faculdade requere
+-  Estudos em cybreseguranca, linux e outros assuntos
 
 <div align="center">
   <a href="https://github.com/TEXTBr">
